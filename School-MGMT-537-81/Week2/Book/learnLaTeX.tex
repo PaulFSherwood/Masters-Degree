@@ -1,0 +1,66 @@
+% Preamble is what is before the \begin document line
+\documentclass{report}%article} %report}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools, amsmath, amssymb, amsthm}
+% \input{preamble}
+% \input{macros}
+% \input{letterfonts}
+
+\title{\Huge{LaTex for Students}}
+\author{\huge{Paul Sherwood}}
+\date{March 17, 2023}
+
+\begin{document}
+\maketitle
+% change the starting chapter number
+\setcounter{chapter}{2}
+\chapter{\centering Introduction}
+% \chapter*{\centering Preface}
+\section{backgrounds}
+\section{will be covered}
+\section{Introduction}\label{sec:intro}
+
+LaTex is a \textbf{software} system \textit{for document} preperastion, \underline{in a way a sort} of markup or programming language.  It produces beautify looking documents in a professional manner.  Students can find uses for LaTeX everywhere-while the obvious place are in math and science classes, it can be used anywhere.
+\sectionmark{code}
+lajsdf
+
+\subsection{Why use LaTeX?}
+
+\section{Getting Started}
+ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae nunc nec nisl lacinia lacinia. Nulla
+
+
+\[
+% infinity
+%    E
+%  n - 1
+\sum_{n = 1}^{\infty}
+\frac{1}{n^2} = \frac{\pi^2}{\phi }
+\]
+
+\begin{equation}\label{eq:sample01}
+    \mathbb{N}
+    \Rightarrow
+    \lim_{x \to \mathfrak{n}} 
+    \Leftarrow
+    \mathbb{Z}
+\end{equation}
+
+\[
+B = \underbrace{\{\{\{ . . . \}\}\}}_{\text{B}}
+\]
+
+In 1902, Einstein created this equation: $E=mc^2$.  This equation is the basis of modern physics.
+
+$\sum F=ma$
+
+\begin{equation} \label{eq1}
+    \begin{split}
+        A & = \frac{\pi r^2}{2} \\
+        A & = \frac{1}{2} \pi r^2
+    \end{split}
+\end{equation}
+
+\ref{sec:intro} as shown in \ref{eq:sample01}
+
+\end{document}
