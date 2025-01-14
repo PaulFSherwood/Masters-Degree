@@ -1,0 +1,9 @@
+# Ignore Word temporary files
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.ppt
+~WRL*.tmp
+
