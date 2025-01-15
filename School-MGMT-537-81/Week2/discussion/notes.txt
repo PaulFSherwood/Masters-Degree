@@ -8,7 +8,7 @@
 
 Reflections:
 	To be fair think only think I know of HR operations is don't make them angry, and they are in the loop for hiring.  However I can say with some certainty that AI is dying off.  Not that it will never be used but its all most a buzzword that is stuffed into products.  Currently it is used in some switches to monitor traffic but you can't trust it fully.  It is not a one size fits all, if anything you will see a mix of data.
-	Company budgets have been shrinking, and no one knows how the ecconomy will work in the next ten years.  Currently companies are holding onto their cash, and the ones that have put themselfs out in the market like gaming companies have had issues.  It looks like Ubisoft a major game studio is going to sell off parts or the whole company.
+	Company budgets have been shrinking, and no one knows how the ecconomy will work in the next ten years.  Currently companies are holding onto their cash, and the ones that have put themselfs out in the market like gaming companies have had issues.  It looks like Ubisoft a major game studio is going to sell off parts or the whole company.  For companies to understand why they need you experties Tenkasi (2018) points out that it is "important practical activity ... [to ensure] that change recipients ... understand the intended meanings and the logic of the change" (p. 65).
 	For DEI I am a bit out of the loop as I have only seen it come up in class.  I am not involved in HR so what I put here is just a guess.  It seems after a state (Texas?) passed some law to remove DEI, companies have slowly been fasing it out.  Looking at Forbes they have a completly differnt take than me.  They suggest it is more of challengies this year than it being dismantled.
 
 Challenges:
@@ -17,4 +17,11 @@ Challenges:
 If I had a suggestion it would to be clear with how you can help, what benefit do you provide?
 
 Conclusion:
-	The field has a chance to grow, but only if you allow it to grow.
+	The field has a chance to grow, but only if you allow it to grow. "This basic approach to planned change in OD is one form of 'action research'" (Marshak & Bushe, 2018).  Anyone in this field will need to move with the times, and explain how their role affects their company.
+
+
+
+References:
+Marshak, R. J., & Bushe, G. R. (2018). Planned and generative change in organization development. OD Practitioner, 50(4), 9–15.
+
+Tenkasi, R. V. (2018). Re-visiting the past to re-imagine the future of organization development and change. Organization Development Journal, 36(3), 61–75.
