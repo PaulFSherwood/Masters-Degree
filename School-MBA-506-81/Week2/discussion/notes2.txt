@@ -14,4 +14,10 @@ goals are good but what about the internals of the project, the meat of how the 
 
 While I admit that having a goal can center a project and keep it on course for out of scope questions, I wonder if this holds true when completing your project tasks.  In the scope and deliverables elements you can point to actionalble items, which means you can measure your performance.  The way that I am thinking about it now is that goals would be a business personalities need, and deliverables would be lower level or fine grain.  Out of these two which gets the project to complettion?
 
-I think you have me on the issues with scope creep, as that has always been a problem on any project that I have witnessed to completion.  
+I think you have me on the issues with scope creep, as that has always been a problem on any project that I have witnessed to completion.  As you stated managament tools back up your point, but I was looking around at reasons for project failures and it seems "[p]roject failure occurs when a project doesn’t meet its objectives, goes over budget, misses deadlines, or fails to deliver expected outcomes." (Kela, 2024)  If this is true I would assume that a larger concern would be scope.  The tricky point is that even in the article I found it comments about goals being an issue.  So I don't have the strongest case.
+
+
+
+Kela, P. (2024, October 3). 7 Reasons Why Projects Fail: Solutions And Examples. SoftwareSuggest Blog; SoftwareSuggest. https://www.softwaresuggest.com/blog/project-failure/
+
+‌
