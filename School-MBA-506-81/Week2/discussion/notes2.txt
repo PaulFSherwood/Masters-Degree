@@ -1,8 +1,17 @@
 Robbin Williams:
 
-It would be odd to say that the Project Purpose is not the most important given the statements in our reading that talk about its use to guide a project, but I am an dumdum and have never been accused of having common sense.
+It would be odd to say that the Project Purpose is not the most important given the statements in our reading that talk about its use to guide a project, but I am an dumdum and have never been accused of having common sense, also your posts are so well structured making it easier for anyone to respond.
 
 
 
 
-A clear purpose provides everyone involved with a sense of direction
+"A clear purpose provides everyone involved with a sense of direction"
+"It ties everything back to the organization’s bigger picture."
+"projects can easily veer off course"
+
+ achieve specific goals, 
+goals are good but what about the internals of the project, the meat of how the project is completed.
+
+While I admit that having a goal can center a project and keep it on course for out of scope questions, I wonder if this holds true when completing your project tasks.  In the scope and deliverables elements you can point to actionalble items, which means you can measure your performance.  The way that I am thinking about it now is that goals would be a business personalities need, and deliverables would be lower level or fine grain.  Out of these two which gets the project to complettion?
+
+I think you have me on the issues with scope creep, as that has always been a problem on any project that I have witnessed to completion.  
