@@ -1,0 +1,31 @@
+Week 3 Lesson 1 - Risk (and Issue) Management
+
+Five Planning group prcesses in the Risk managment Knowlege Area.
+
+
+11. Project Risk Managment
+11.1 Plan Risk Management
+11.2 Identify Risks
+11.3 Perform Qualitative Risk Analysis
+11.5 Plan Risk Responses
+
+
+According to the PMBOK, a risk is an uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives (PMBOK, 2017).
+
+Uncertainty exists when the information is not absolute or complete. 
+
+The key distinction between risks and issues is uncertainty. 
+
+The source of risk can come from the project’s constraints as well as from the environment surrounding and within the project.
+
+Once a risk or issue has been identified and analyzed for its probability of occurrence and impact severity, we need to plan a response.
+Types: Accept, Transfer, Avoid, Mitigate
+
+Contingency reserve - held at the project level and set aside for known-unknowns (i.e. the risks) that have been identified and are recorded in the risk register.
+
+Management reserve - held at the larger organizational level within which the project exists. 
+
+As we identify stakeholders, we can assign them to categories such as Internal/External and Customer/Non-Customer.
+
+we can consider qualifications to indicate the stakeholder’s attitude towards the project. Are they a supporter, bystander, driver or blocker? 
+
