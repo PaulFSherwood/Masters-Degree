@@ -1,0 +1,67 @@
+Office Move
+  1. Manage Project
+    1.1 Define Requirements
+      1.1.1 Identify Stakeholders
+      1.1.2 Conduct Needs Assessment
+      1.1.3 Document Business Requirements
+    1.2 Set Budget
+      1.2.1 Estimate Moving Costs
+      1.2.2 Estimate New Office Setup Costs
+      1.2.3 Finalize Budget Approval
+      1.2.4 Create Budget Timeline
+        1.2.4.1 Schedule Money Transfers
+        1.2.4.2 Align Transfers with Activity Start Dates
+        1.2.4.3 Monitor Cash Flow to Avoid Delays
+    1.3 Create Schedule
+      1.3.1 Develop Project Timeline
+      1.3.2 Assign Responsibilities
+      1.3.3 Set Key Milestones
+    1.4 Risk Management & Compliance
+      1.4.1 Identify Potential Risks
+      1.4.2 Develop Contingency Plan
+      1.4.3 Ensure Legal & Compliance Review
+  2. New Office
+    2.1 Realtor
+      2.1.1 Research Available Locations
+      2.1.2 Schedule Site Visits
+      2.1.3 Compare Lease Agreements
+      2.1.4 Compare Lease Costs 
+    2.2 Identify Location
+      2.2.1 Evaluate Accessibility for Customers and Employees
+      2.2.2 Assess Space Requirements
+      2.2.3 Check Zoning & Permits
+    2.3 Sign Lease
+      2.3.1 Negotiate Lease Terms
+      2.3.2 Conduct Legal Review
+      2.3.3 Finalize Lease Agreement
+  3. Equipment & Furniture
+    3.1 Select Suppliers
+      3.1.1 Research & Compare Vendors
+      3.1.2 Obtain Quotes & Approvals
+      3.1.3 Place Orders
+    3.2 Furniture Selection
+      3.2.1 Identify Office Layout Needs
+      3.2.2 Choose Ergonomic Seating
+      3.2.3 Order Assembly & Installation
+    3.3 Computer Equipment Selection
+      3.3.1 Decide on Computers & Monitors (Transfered or new)
+      3.3.2 Procure Printers & Networking Devices (Transfered or new)
+      3.3.3 Set Up Server & Cloud Services
+  4. Move
+    4.1 Packing Plan
+      4.1.1 Develop Packing Guidelines
+      4.1.2 Label & Inventory Items
+      4.1.3 Organize Packing Teams
+    4.2 Select Moving Company
+      4.2.1 Obtain Quotes
+      4.2.2 Schedule Move Date
+      4.2.3 Coordinate Logistics
+    4.3 Transportation & Setup
+      4.3.1 Plan Delivery Routes
+      4.3.2 Oversee Equipment Unloading
+      4.3.3 Ensure Proper Setup
+    4.4 Post-Move Activities
+      4.4.1 Conduct Final Walkthrough
+      4.4.2 Resolve Any Issues
+      4.4.3 Collect Feedback & Adjustments
+

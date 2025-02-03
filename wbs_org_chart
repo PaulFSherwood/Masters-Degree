@@ -1,0 +1,134 @@
+// WBS Org Chart
+digraph {
+	node0 [label="Office Move" fillcolor=blue style=filled]
+	node1 [label="1. Manage Project" fillcolor=orange style=filled]
+	node2 [label="1.1 Define Requirements" fillcolor=green style=filled]
+	node3 [label="1.1.1 Identify Stakeholders" fillcolor=red style=filled]
+	node4 [label="1.1.2 Conduct Needs Assessment" fillcolor=red style=filled]
+	node5 [label="1.1.3 Document Business Requirements" fillcolor=red style=filled]
+	node6 [label="1.2 Set Budget" fillcolor=green style=filled]
+	node7 [label="1.2.1 Estimate Moving Costs" fillcolor=red style=filled]
+	node8 [label="1.2.2 Estimate New Office Setup Costs" fillcolor=red style=filled]
+	node9 [label="1.2.3 Finalize Budget Approval" fillcolor=red style=filled]
+	node10 [label="1.2.4 Create Budget Timeline" fillcolor=red style=filled]
+	node11 [label="1.2.4.1 Schedule Money Transfers" fillcolor=white style=filled]
+	node12 [label="1.2.4.2 Align Transfers with Activity Start Dates" fillcolor=white style=filled]
+	node13 [label="1.2.4.3 Monitor Cash Flow to Avoid Delays" fillcolor=white style=filled]
+	node14 [label="1.3 Create Schedule" fillcolor=green style=filled]
+	node15 [label="1.3.1 Develop Project Timeline" fillcolor=red style=filled]
+	node16 [label="1.3.2 Assign Responsibilities" fillcolor=red style=filled]
+	node17 [label="1.3.3 Set Key Milestones" fillcolor=red style=filled]
+	node18 [label="1.4 Risk Management & Compliance" fillcolor=green style=filled]
+	node19 [label="1.4.1 Identify Potential Risks" fillcolor=red style=filled]
+	node20 [label="1.4.2 Develop Contingency Plan" fillcolor=red style=filled]
+	node21 [label="1.4.3 Ensure Legal & Compliance Review" fillcolor=red style=filled]
+	node22 [label="2. New Office" fillcolor=orange style=filled]
+	node23 [label="2.1 Realtor" fillcolor=green style=filled]
+	node24 [label="2.1.1 Research Available Locations" fillcolor=red style=filled]
+	node25 [label="2.1.2 Schedule Site Visits" fillcolor=red style=filled]
+	node26 [label="2.1.3 Compare Lease Agreements" fillcolor=red style=filled]
+	node27 [label="2.1.4 Compare Lease Costs" fillcolor=red style=filled]
+	node28 [label="2.2 Identify Location" fillcolor=green style=filled]
+	node29 [label="2.2.1 Evaluate Accessibility for Customers and Employees" fillcolor=red style=filled]
+	node30 [label="2.2.2 Assess Space Requirements" fillcolor=red style=filled]
+	node31 [label="2.2.3 Check Zoning & Permits" fillcolor=red style=filled]
+	node32 [label="2.3 Sign Lease" fillcolor=green style=filled]
+	node33 [label="2.3.1 Negotiate Lease Terms" fillcolor=red style=filled]
+	node34 [label="2.3.2 Conduct Legal Review" fillcolor=red style=filled]
+	node35 [label="2.3.3 Finalize Lease Agreement" fillcolor=red style=filled]
+	node36 [label="3. Equipment & Furniture" fillcolor=orange style=filled]
+	node37 [label="3.1 Select Suppliers" fillcolor=green style=filled]
+	node38 [label="3.1.1 Research & Compare Vendors" fillcolor=red style=filled]
+	node39 [label="3.1.2 Obtain Quotes & Approvals" fillcolor=red style=filled]
+	node40 [label="3.1.3 Place Orders" fillcolor=red style=filled]
+	node41 [label="3.2 Furniture Selection" fillcolor=green style=filled]
+	node42 [label="3.2.1 Identify Office Layout Needs" fillcolor=red style=filled]
+	node43 [label="3.2.2 Choose Ergonomic Seating" fillcolor=red style=filled]
+	node44 [label="3.2.3 Order Assembly & Installation" fillcolor=red style=filled]
+	node45 [label="3.3 Computer Equipment Selection" fillcolor=green style=filled]
+	node46 [label="3.3.1 Decide on Computers & Monitors (Transfered or new)" fillcolor=red style=filled]
+	node47 [label="3.3.2 Procure Printers & Networking Devices (Transfered or new)" fillcolor=red style=filled]
+	node48 [label="3.3.3 Set Up Server & Cloud Services" fillcolor=red style=filled]
+	node49 [label="4. Move" fillcolor=orange style=filled]
+	node50 [label="4.1 Packing Plan" fillcolor=green style=filled]
+	node51 [label="4.1.1 Develop Packing Guidelines" fillcolor=red style=filled]
+	node52 [label="4.1.2 Label & Inventory Items" fillcolor=red style=filled]
+	node53 [label="4.1.3 Organize Packing Teams" fillcolor=red style=filled]
+	node54 [label="4.2 Select Moving Company" fillcolor=green style=filled]
+	node55 [label="4.2.1 Obtain Quotes" fillcolor=red style=filled]
+	node56 [label="4.2.2 Schedule Move Date" fillcolor=red style=filled]
+	node57 [label="4.2.3 Coordinate Logistics" fillcolor=red style=filled]
+	node58 [label="4.3 Transportation & Setup" fillcolor=green style=filled]
+	node59 [label="4.3.1 Plan Delivery Routes" fillcolor=red style=filled]
+	node60 [label="4.3.2 Oversee Equipment Unloading" fillcolor=red style=filled]
+	node61 [label="4.3.3 Ensure Proper Setup" fillcolor=red style=filled]
+	node62 [label="4.4 Post-Move Activities" fillcolor=green style=filled]
+	node63 [label="4.4.1 Conduct Final Walkthrough" fillcolor=red style=filled]
+	node64 [label="4.4.2 Resolve Any Issues" fillcolor=red style=filled]
+	node65 [label="4.4.3 Collect Feedback & Adjustments" fillcolor=red style=filled]
+	node0 -> node1
+	node1 -> node2
+	node2 -> node3
+	node2 -> node4
+	node2 -> node5
+	node1 -> node6
+	node6 -> node7
+	node6 -> node8
+	node6 -> node9
+	node6 -> node10
+	node10 -> node11
+	node10 -> node12
+	node10 -> node13
+	node1 -> node14
+	node14 -> node15
+	node14 -> node16
+	node14 -> node17
+	node1 -> node18
+	node18 -> node19
+	node18 -> node20
+	node18 -> node21
+	node0 -> node22
+	node22 -> node23
+	node23 -> node24
+	node23 -> node25
+	node23 -> node26
+	node23 -> node27
+	node22 -> node28
+	node28 -> node29
+	node28 -> node30
+	node28 -> node31
+	node22 -> node32
+	node32 -> node33
+	node32 -> node34
+	node32 -> node35
+	node0 -> node36
+	node36 -> node37
+	node37 -> node38
+	node37 -> node39
+	node37 -> node40
+	node36 -> node41
+	node41 -> node42
+	node41 -> node43
+	node41 -> node44
+	node36 -> node45
+	node45 -> node46
+	node45 -> node47
+	node45 -> node48
+	node0 -> node49
+	node49 -> node50
+	node50 -> node51
+	node50 -> node52
+	node50 -> node53
+	node49 -> node54
+	node54 -> node55
+	node54 -> node56
+	node54 -> node57
+	node49 -> node58
+	node58 -> node59
+	node58 -> node60
+	node58 -> node61
+	node49 -> node62
+	node62 -> node63
+	node62 -> node64
+	node62 -> node65
+}
