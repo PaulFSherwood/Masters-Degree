@@ -1,0 +1,104 @@
+Practice Standard for Work Breakdown Structures - Thrid Edition
+
+3.1
+"Ensures the work of the project correlates appropriately with the organizational breakdown structure (OBS) yielding the responsibility assignment matrix (RAM)" (PMI, 2019)
+
+"Project failures, however, can often trace back to a poorly developed or nonexistent WBS." (PMI, 2019)
+
+Incomplete project definition, leading to ongoing project extensions;
+Unclear work assignments, goals, objectives, or deliverables;
+Scope creep or unmanageable, frequently changing scope;
+Budget overrun;
+Missed deadlines on scheduled deliverables or timeline slippage;
+Unusable new product or feature;
+Unmanaged risk;
+Lack of communication;
+Lack of consistency in approach; and
+Failure to deliver on some elements of project scope.
+
+3.3
+"Decomposition represents the core of the WBS." (PMI, 2019)
+
+"Decomposition is a technique used for dividing and subdividing the project scope and project deliverables into smaller, more manageable parts." (PMI, 2019)
+
+Identifying and analyzing the deliverables and related work,
+Structuring and organizing the WBS,
+Decomposing the upper WBS levels into lower-level detailed components,
+Developing and assigning identification codes to the WBS components, and
+Verifying that the degree of decomposition of the deliverables is appropriate.
+
+Various approaches apply when creating a WBS structure. Some of the popular approaches include the top-down approach, the use of organization-specific guidelines, and the use of WBS templates. A bottom-up approach typically groups subcomponents. 
+
+Decomposition of the upper-level WBS components requires subdividing the work for each of the deliverables or subcomponents into its most fundamental components, where the WBS components represent verifiable products, services, or results.
+
+Structuring the WBS often appears as an outline, an organizational chart, or other approach that identifies a hierarchical breakdown.
+
+"However, excessive decomposition occasionally leads to non-productive management effort, inefficient use of resources, decreased efficiency in performing the work, and difficulty aggregating data over different levels of the WBS." (PMI, 2019)
+
+This accounts for all the work, addresses key project management practices, and captures the produced deliverables.
+
+"an alternate WBS adds the phase-oriented type ... Segmenting the work into phase segments of a life cycle allows analysis within managed cycles." (PMI, 2019)
+
+"the design cycle ... Once approved, the build cycle starts and manufacturing of the designed components of the bicycle occurs" (PMI, 2019)
+
+For the agile life cycle iteration 1, as shown in Figure 3-8, design of the system begins. Here the backlog and user stories use story points for sizing the effort.
+
+"The project management WBS element exists to ensure accounting of all the work."
+
+
+3.4
+The WBS is an important tool used in the planning and execution of a successful project. Many project cost, schedule, and quality failures trace directly to flaws in the development of the project's WBS.
+
+A project's success is less likely without the existence of a quality WBS.
+
+
+4.2
+
+Assures completeness of the work needed to be done to meet the objectives of the project;
+Provides a framework for managing and controlling the work packages;
+Assists stakeholders’ understanding and communicating of the scope;
+
+
+4.2.1
+
+Core attributes are required for every WBS, as these properties enable the WBS to satisfy project needs present in most projects, most of the time.
+
+Defines the scope of the project by containing 100 percent of the work defined by the scope; each level of decomposition contains 100 percent of the work in the parent level
+
+Allows easier review and audit of the WBS work packages
+
+Iteratively evolves along with the progressive elaboration of project scope, up to the point the scope has been baselined and fixed
+
+Updated in accordance with a project change control process
+
+4.5
+
+ For a WBS to be considered of high quality, it requires attainment of the purpose for which it was originally intended, plus inclusion of the complete work represented by the scope of a program or project.
+
+Elements that are defined using nouns and adjectives, not verbs;
+
+Graphical and hierarchical breakdowns of the project scope.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reference:
+
+Project Management Institute. (2019). Practice standard for work breakdown structures (3rd ed.). Project Management Institute.
