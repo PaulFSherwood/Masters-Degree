@@ -1,0 +1,5 @@
+sudo apt update
+sudo apt install build-essential cmake python3-venv python3-pip valgrind linux-tools-common shellcheck graphviz
+python3 -m venv ~/wgu-prep/.venv
+source ~/wgu-prep/.venv/bin/activate
+pip install pandas scikit-learn matplotlib jupyter pytest
