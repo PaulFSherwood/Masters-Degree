@@ -1,0 +1,13 @@
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/O1.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/O2n.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/OLogN.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/On2.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/OnLogN.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/OnSquare.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/OofN.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/install.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/install/local.dir
+/mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build/CMakeFiles/install/strip.dir
