@@ -15,13 +15,14 @@ endif()
 # -----------------------------
 # Explicit executables
 # -----------------------------
-add_executable(O1       O1/main.cpp)
-add_executable(O2n      O2n/main.cpp)
-add_executable(OLogN    OLogN/main.cpp)
-add_executable(On2      On2/main.cpp)
-add_executable(OnLogN   OnLogN/main.cpp)
-add_executable(OnSquare OnSquare/main.cpp)
-add_executable(OofN     OofN/main.cpp)
+add_executable(O1        O1/main.cpp)
+add_executable(O2n       O2n/main.cpp)
+add_executable(OLogN     OLogN/main.cpp)
+add_executable(On2       On2/main.cpp)
+add_executable(OnLogN    OnLogN/main.cpp)
+add_executable(OnSquare  OnSquare/main.cpp)
+add_executable(OofN      OofN/main.cpp)
+add_executable(callStack callStack/main.cpp)
 
 # Collect only the targets that exist
 set(BUILT_TARGETS "")

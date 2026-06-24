@@ -14,28 +14,28 @@ long long sumArray(const std::vector<int>& arr) {
 }
 
 int main() {
-    int n;
-    std::cout << "Enter number of elements: ";
+   int n;
+   std::cout << "Enter number of elements: ";
 
-    // Input validation
-    if (!(std::cin >> n) || n < 0) {
-        std::cerr << "Invalid input. Please enter a non-negative integer.\n";
-        return 1;
-    }
+   // Input validation
+   if (!(std::cin >> n) || n < 0) {
+      std::cerr << "Invalid input. Please enter a non-negative integer.\n";
+      return 1;
+   }
 
-    std::vector<int> arr(n);
-    std::cout << "Enter " << n << " integers:\n";
+   std::vector<int> arr(n);
+   std::cout << "Enter " << n << " integers:\n";
 
-    for (int i = 0; i < n; ++i) {
-        if (!(std::cin >> arr[i])) {
-            std::cerr << "Invalid input. Please enter integers only.\n";
-            return 1;
-        }
-    }
+   for (int i = 0; i < n; ++i) {
+      if (!(std::cin >> arr[i])) {
+         std::cerr << "Invalid input. Please enter integers only.\n";
+         return 1;
+      }
+   }
 
-    // Compute sum in O(n) time
-    long long result = sumArray(arr);
+   // Compute sum in O(n) time
+   long long result = sumArray(arr);
 
-    std::cout << "Sum of elements: " << result << "\n";
-    return 0;
+   std::cout << "Sum of elements: " << result << "\n";
+   return 0;
 }

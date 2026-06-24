@@ -271,6 +271,39 @@ build OofN: CXX_EXECUTABLE_LINKER__OofN_Release CMakeFiles/OofN.dir/OofN/main.cp
   TARGET_FILE = OofN
   TARGET_PDB = OofN.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target callStack
+
+
+#############################################
+# Order-only phony target for callStack
+
+build cmake_object_order_depends_target_callStack: phony || .
+
+build CMakeFiles/callStack.dir/callStack/main.cpp.o: CXX_COMPILER__callStack_unscanned_Release /mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/callStack/main.cpp || cmake_object_order_depends_target_callStack
+  DEP_FILE = CMakeFiles/callStack.dir/callStack/main.cpp.o.d
+  FLAGS = -O3 -DNDEBUG -std=gnu++17
+  OBJECT_DIR = CMakeFiles/callStack.dir
+  OBJECT_FILE_DIR = CMakeFiles/callStack.dir/callStack
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target callStack
+
+
+#############################################
+# Link the executable callStack
+
+build callStack: CXX_EXECUTABLE_LINKER__callStack_Release CMakeFiles/callStack.dir/callStack/main.cpp.o
+  DEP_FILE = CMakeFiles/callStack.dir/link.d
+  FLAGS = -O3 -DNDEBUG
+  LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/callStack.dir/link.d
+  OBJECT_DIR = CMakeFiles/callStack.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = callStack
+  TARGET_PDB = callStack.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -348,7 +381,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 #############################################
 # Folder: /mnt/c/Users/sherwoodpa/Documents/School/Masters-Degree/wgu-prep/practice/build
 
-build all: phony O1 O2n OLogN On2 OnLogN OnSquare OofN
+build all: phony O1 O2n OLogN On2 OnLogN OnSquare OofN callStack
 
 # =============================================================================
 # Built-in targets
